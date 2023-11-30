@@ -12,8 +12,9 @@ Eu sou um desenvolvedor Full Stack apaixonado por transformar ideias em código.
 
 ### Projetos em Destaque
 
-- [Projeto 1](link_projeto_1): Uma breve descrição do projeto.
-- [Projeto 2](link_projeto_2): Uma breve descrição do projeto.
+- [**Prollabe Developers**](https://developers.prollabe.com/): Desenvolvimento de aplicativos e sites. Entre em contato: [contato@proldevs.com](mailto:contato@proldevs.com).
+
+- [**Prollabe**](https://prollabe.com): Startup inovadora. Explorando novas fronteiras.
 
 ## Vamos Conectar!
 
@@ -22,7 +23,7 @@ Siga-me no [Instagram](https://www.instagram.com/pierleeb/) para acompanhar minh
 ## Contato
 
 - **LinkedIn:** [Pierleeb](link_linkedin)
-- **E-mail:** seu@email.com
+- **E-mail:** [contato@pierleeb.com](mailto:contato@pierleeb.com)
 
 ## Estatísticas do GitHub
 
