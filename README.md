@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Eu sou um desenvolvedor Full Stack apaixonado por transformar ideias em código. Minha jornada no mundo da programação começou há [inserir o número de anos] anos, e desde então tenho explorado e aprendido diversas tecnologias.
+Eu sou um desenvolvedor Full Stack apaixonado por transformar ideias em código. Minha jornada no mundo da programação começou há 4 anos, e desde então tenho explorado e aprendido diversas tecnologias.
 
 ### Linguagens e Tecnologias
 
