@@ -18,7 +18,7 @@ Eu sou um desenvolvedor Full Stack apaixonado por transformar ideias em código.
 
 ## Vamos Conectar!
 
-Siga-me no [Instagram](https://www.instagram.com/pierleeb/) para acompanhar minha jornada no mundo da programação e além. Adoro compartilhar dicas, truques e projetos interessantes!
+Siga-me no [Instagram](https://www.instagram.com/pierleeb/) para acompanhar minha jornada no mundo da programação e além. Adoro compartilhar dicas, truques e projetos interessantes, além de informações sobre meus livros!
 
 ## Contato
 
