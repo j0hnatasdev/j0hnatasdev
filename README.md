@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Eu sou um desenvolvedor Full Stack apaixonado por transformar ideias em código. Minha jornada no mundo da programação começou há 4 anos, e desde então tenho explorado e aprendido diversas tecnologias.
+Sou um entusiasta Full Stack apaixonado por transformar ideias em código. Minha jornada no mundo da programação começou há 4 anos, e desde então venho explorando e aprendendo diversas tecnologias.
 
 ### Linguagens e Tecnologias
 
@@ -14,7 +14,7 @@ Eu sou um desenvolvedor Full Stack apaixonado por transformar ideias em código.
 
 - [**Prollabe Developers**](https://developers.prollabe.com/): Desenvolvimento de aplicativos e sites. Entre em contato: [contato@proldevs.com](mailto:contato@proldevs.com).
 
-- [**Prollabe**](https://prollabe.com): Startup inovadora. Explorando novas fronteiras.
+- [**Prollabe**](https://prollabe.com): Desbravando novas fronteiras como uma startup inovadora.
 
 ## Vamos Conectar!
 
