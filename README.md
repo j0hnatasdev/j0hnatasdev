@@ -1,4 +1,4 @@
-# Olá, eu sou Pierleeb! 👋
+# Olá, eu sou Johntas! 👋
 
 ## Sobre mim
 
@@ -18,13 +18,13 @@ Eu sou um desenvolvedor Full Stack apaixonado por transformar ideias em código.
 
 ## Vamos Conectar!
 
-Siga-me no [Instagram](https://www.instagram.com/pierleeb/) para acompanhar minha jornada no mundo da programação e além. Adoro compartilhar dicas, truques e projetos interessantes, além de informações sobre meus livros!
+Siga-me no [Instagram](https://www.instagram.com/j0hnatas/) para acompanhar minha jornada no mundo da programação e além. Adoro compartilhar dicas, truques e projetos interessantes, além de informações sobre meus livros!
 
 ## Contato
 
-- **LinkedIn:** [Pierleeb](link_linkedin)
-- **E-mail:** [contato@pierleeb.com](mailto:contato@pierleeb.com)
+- **LinkedIn:** [j0hnatas](link_linkedin)
+- **E-mail:** [contato@pierleeb.com](mailto:contato@prollabe.com)
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pierleeb&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=j0hnatas&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
