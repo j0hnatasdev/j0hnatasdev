@@ -12,8 +12,7 @@ Eu sou um desenvolvedor Full Stack apaixonado por transformar ideias em código.
 
 ## Vamos Conectar!
 
-Siga-me no [Instagram](https://www.instagram.com/j0hnatas/) para acompanhar minha jornada no mundo da programação e além. Adoro compartilhar dicas, truques e projetos interessantes, além de informações sobre meus livros!
-
+Siga-me no [Instagram](https://www.instagram.com/j0hnatas/) para acompanhar minha jornada no mundo da programação e além. Adoro compartilhar dicas, truques e projetos interessantes.
 ## Contato
 
 - **LinkedIn:** [j0hnatas](link_linkedin)
