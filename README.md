@@ -16,7 +16,7 @@ Siga-me no [Instagram](https://www.instagram.com/j0hnatas/) para acompanhar minh
 ## Contato
 
 - **LinkedIn:** [j0hnatas](link_linkedin)
-- **E-mail:** [contato@pierleeb.com](mailto:contato@prollabe.com)
+- **E-mail:** [contato@prollabe.com](mailto:contato@prollabe.com)
 
 ## Estatísticas do GitHub
 
