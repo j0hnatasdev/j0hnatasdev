@@ -10,12 +10,6 @@ Eu sou um desenvolvedor Full Stack apaixonado por transformar ideias em código.
 - **Banco de Dados:** MongoDB, MySQL, PostgreSQL
 - **Outras Tecnologias:** Express.js, Flask, Git, Docker
 
-### Projetos em Destaque
-
-- [**Prollabe Developers**](https://developers.prollabe.com/): Desenvolvimento de aplicativos e sites. Entre em contato: [contato@proldevs.com](mailto:contato@proldevs.com).
-
-- [**Prollabe**](https://prollabe.com): Startup inovadora. Explorando novas fronteiras.
-
 ## Vamos Conectar!
 
 Siga-me no [Instagram](https://www.instagram.com/j0hnatas/) para acompanhar minha jornada no mundo da programação e além. Adoro compartilhar dicas, truques e projetos interessantes, além de informações sobre meus livros!
