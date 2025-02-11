@@ -1,5 +1,6 @@
 # 👨‍💻 Johnatas – Full-Stack Developer  
-Desenvolvedor apaixonado por tecnologia e soluções escaláveis. Busco sempre inovação, performance e boas práticas no desenvolvimento de software.  
+
+💡 Desenvolvedor apaixonado por tecnologia e soluções escaláveis. Busco sempre inovação, performance e boas práticas no desenvolvimento de software.  
 
 ---
 
@@ -14,17 +15,12 @@ Desenvolvedor apaixonado por tecnologia e soluções escaláveis. Busco sempre i
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <a href="https://github.com/j0hnatasdev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=j0hnatasdev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=j0hnatasdev&theme=radical" />
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=j0hnatasdev&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=j0hnatasdev&theme=radical" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/j0hnatasdev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hnatasdev&layout=compact&theme=radical" />
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j0hnatasdev&theme=radical" />
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hnatasdev&layout=compact&theme=radical" />
 </p>
 
 ---
