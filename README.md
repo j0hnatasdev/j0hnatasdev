@@ -1,6 +1,5 @@
 # 👨‍💻 Johnatas – Full-Stack Developer  
-
-💡 Desenvolvedor apaixonado por tecnologia e soluções escaláveis. Busco sempre inovação, performance e boas práticas no desenvolvimento de software.  
+Desenvolvedor apaixonado por tecnologia e soluções escaláveis. Busco sempre inovação, performance e boas práticas no desenvolvimento de software.  
 
 ---
 
