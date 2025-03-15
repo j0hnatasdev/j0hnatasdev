@@ -15,12 +15,12 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=j0hnatasdev&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=j0hnatasdev&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=johnatas-dev&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=johnatas-dev&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hnatasdev&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatas-dev&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
   <a href="https://instagram.com/johnatasdev">
     <img src="https://img.shields.io/badge/Instagram-%40johnatasdev-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/j0hnatasdev">
-    <img src="https://img.shields.io/badge/GitHub-j0hnatasdev-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/johnatas-dev">
+    <img src="https://img.shields.io/badge/GitHub-johnatas-dev-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
