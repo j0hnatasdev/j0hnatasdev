@@ -2,8 +2,6 @@
 
 💡 I'm a programming enthusiast who develops for fun. Passionate about building scalable, high-performance software solutions. I enjoy creating new things, especially platforms for reading and entertainment.
 
----
-
 ## Tech Stack  
 
 <p align="center">
@@ -12,7 +10,7 @@
 
 ---
 
-## GitHub Analytics  
+## GitHub Analytics & Where to Find Me  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=johnatas-dev&show_icons=true&theme=radical&count_private=true" />
@@ -22,10 +20,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatas-dev&layout=compact&theme=radical" />
 </p>
-
----
-
-## Where to find me  
 
 <p align="center">
   <a href="mailto:contato@johnatasdev.com">
@@ -37,7 +31,7 @@
   <a href="https://github.com/johnatas-dev">
     <img src="https://img.shields.io/badge/GitHub-johnatas--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/johnatas-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-johnatas--dev-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/johnatasdev">
+    <img src="https://img.shields.io/badge/LinkedIn-johnatasdev-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
