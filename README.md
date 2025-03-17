@@ -2,15 +2,9 @@
 
 💡 I'm a programming enthusiast who develops for fun. Passionate about building scalable, high-performance software solutions. I enjoy creating new things, especially platforms for reading and entertainment.
 
-## Tech Stack  
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,html,css,mongodb,mysql,postgres,express,flask,git,docker" />
 </p>
-
----
-
-## GitHub Analytics & Where to Find Me  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=johnatas-dev&show_icons=true&theme=radical&count_private=true" />
