@@ -6,8 +6,12 @@
         I'm a <strong>Full Stack Developer</strong> who learned a bit of everything and turns that into incredible projects.
       </p>
     </td>
-    <td align="right">
-      <img src="https://github.com/johnatasdev.png" width="150" alt="Johnatas Avatar" />
+     <td align="right">
+      <img
+        src="https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/the-eminence-in-shadow-cid-sword-animated-custom-cursor.gif"
+        width="150"
+        alt="Johnatas Avatar"
+        style="border-radius: 50%;"
     </td>
   </tr>
 </table>
@@ -33,10 +37,16 @@
 
 <p align="left">
   <a href="https://prollabe.com" target="_blank">
-    <img src="https://prollabe.com/images/prollabe-logo.png" alt="Prollabe" width="80" height="80" style="margin-right: 20px;"/>
+    <img src="https://prollabe.com/images/prollabe-logo.png"
+         alt="Prollabe"
+         width="90"
+         style="margin-right: 20px; height: auto;" />
   </a>
   <a href="https://developers.prollabe.com" target="_blank">
-    <img src="https://developers.prollabe.com/images/logo.png" alt="Prollabe Devs" width="80" height="80" />
+    <img src="https://developers.prollabe.com/images/logo.png"
+         alt="Prollabe Devs"
+         width="80"
+         style="height: auto;" />
   </a>
 </p>
 
