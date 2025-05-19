@@ -1,6 +1,6 @@
-# 👨‍💻 Hey, I'm Johnatas – Full-Stack Developer  
+# Johnatas – Full-Stack Developer
 
-💡 I'm a programming enthusiast who develops for fun. Passionate about building scalable, high-performance software solutions. I enjoy creating new things, especially platforms for reading and entertainment.
+Sou um desenvolvedor full-stack apaixonado por tecnologia e resolução de problemas. Gosto de criar soluções escaláveis e performáticas, com foco especial em plataformas de leitura e entretenimento. Programar é mais do que trabalho — é algo que faço por prazer.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,html,css,mongodb,mysql,postgres,express,flask,git,docker" />
