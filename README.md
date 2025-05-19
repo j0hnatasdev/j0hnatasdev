@@ -9,7 +9,7 @@
      <td align="right">
       <img
         src="https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/the-eminence-in-shadow-cid-sword-animated-custom-cursor.gif"
-        width="120"
+        width="100"
         alt="Johnatas Avatar"
         style="border-radius: 50%;"
     </td>
