@@ -1,31 +1,74 @@
-# Johnatas – Full-Stack Developer
+<table>
+  <tr>
+    <td align="left">
+      <h1>👋 Hello, my name is Johnatas!</h1>
+      <p>
+        I'm a <strong>Full Stack Developer</strong> who learned a bit of everything and turns that into incredible projects.
+      </p>
+    </td>
+    <td align="right">
+      <img src="https://github.com/johnatasdev.png" width="150" alt="Johnatas Avatar" />
+    </td>
+  </tr>
+</table>
 
-Sou um desenvolvedor full-stack apaixonado por tecnologia e resolução de problemas. Gosto de criar soluções escaláveis e performáticas, com foco especial em plataformas de leitura e entretenimento. Programar é mais do que trabalho — é algo que faço por prazer.
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,html,css,mongodb,mysql,postgres,express,flask,git,docker" />
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=johnatasdev&show_icons=true&theme=dark&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatasdev&layout=compact&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Founder of
+
+<p align="left">
+  <a href="https://prollabe.com" target="_blank">
+    <img src="https://prollabe.com/images/prollabe-logo.png" alt="Prollabe" width="80" height="80" style="margin-right: 20px;"/>
+  </a>
+  <a href="https://developers.prollabe.com" target="_blank">
+    <img src="https://developers.prollabe.com/images/logo.png" alt="Prollabe Devs" width="80" height="80" />
+  </a>
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=johnatas-dev&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=johnatas-dev&theme=radical" />
+---
+
+### 🛠️ Tech I Use
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native" title="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatas-dev&layout=compact&theme=radical" />
-</p>
+---
 
-<p align="center">
-  <a href="mailto:contato@johnatasdev.com">
-    <img src="https://img.shields.io/badge/Email-contato%40johnatasdev.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.instagram.com/johnatasdev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://instagram.com/johnatasdev">
-    <img src="https://img.shields.io/badge/Instagram-%40johnatasdev-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/johnatas-dev">
-    <img src="https://img.shields.io/badge/GitHub-johnatas--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/johnatasdev">
-    <img src="https://img.shields.io/badge/LinkedIn-johnatasdev-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/johnatasdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
